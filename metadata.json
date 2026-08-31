@@ -1,0 +1,6 @@
+{
+  "name": "Evangelio Diario Emaús",
+  "description": "Evangelio católico diario con lecturas litúrgicas, reflexión espiritual y generación de arte bíblico en formato 4:5 con el logo de Emaús.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
